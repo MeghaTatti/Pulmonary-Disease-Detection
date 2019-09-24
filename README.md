@@ -8,3 +8,5 @@ It takes images form a specific directory "data/test/" and runs it with the rama
 The research papers used to develop this project are in the folder named : "Papers"
 
 The final report of the project is in "Report"
+
+This Project was done in collaboration with **Rakshith Churchagundi Amarnath**. 
